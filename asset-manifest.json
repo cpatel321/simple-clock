@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-clock/static/css/main.00622f76.css",
+    "main.js": "/simple-clock/static/js/main.544ca626.js",
+    "static/js/787.93cfc5bb.chunk.js": "/simple-clock/static/js/787.93cfc5bb.chunk.js",
+    "index.html": "/simple-clock/index.html",
+    "main.00622f76.css.map": "/simple-clock/static/css/main.00622f76.css.map",
+    "main.544ca626.js.map": "/simple-clock/static/js/main.544ca626.js.map",
+    "787.93cfc5bb.chunk.js.map": "/simple-clock/static/js/787.93cfc5bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00622f76.css",
+    "static/js/main.544ca626.js"
+  ]
+}
